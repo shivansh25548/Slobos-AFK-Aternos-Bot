@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "skyandgod2311.aternos.me",
+    "ip": "skyandgod2311.aternos.me:18424",
     "port": 18424,
     "version": "",
     "try-creative": false
